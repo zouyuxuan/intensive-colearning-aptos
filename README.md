@@ -110,6 +110,20 @@
 5. 选择适当的范围: 在 “范围” 部分，选择授予您的令牌所需的权限。对于邀请协作者，您需要授予以下范围：
 
 - `repo:invite`：允许您的令牌创建存储库邀请。最好是给这个令牌赋予 repo 总权限
-- admin:org 权限的用户才能创建具有邀请协作者权限的个人访问令牌。
+- `admin:org` 权限的用户才能创建具有邀请协作者权限的个人访问令牌。
 
 6. 将令牌值添加到存储库 secret: 按照上述步骤将您的个人访问令牌值添加到您的存储库 secret 中，并将名称设置为 `PAT_WITH_INVITE_PERMISSIONS`。
+
+### 配置共学信息配置变量
+
+1. 配置这四个仓库变量，注意不要添加换行，空格符号
+
+| Field Name | Value | Comments |
+|---|---|---|
+| START_DATE | 2024-06-24T00:00:00+00:00 | Start time |
+| END_DATE | 2024-07-06T23:59:59+00:00 | End time |
+| FIELD_NAME | EICL1st· Name | Field name in the readme |
+| FILE_SUFFIX | _EICL1st.md_ | Shared learning activity number |
+
+
+![image](https://github.com/user-attachments/assets/6864dac1-e73a-4012-be3e-0340a1c37f73)
