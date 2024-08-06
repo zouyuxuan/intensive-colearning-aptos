@@ -69,6 +69,15 @@
 - 打卡：
   - 报名成功后，你将拥有 main 分支的 push 权限，你需要将每天学习笔记按日期更新到你的 YourName.md 文档中，提交更新后，我们会自动更新你的打卡状态到下面的打卡记录表。
   - 如果你不在 UTC+8 时区，需要添加时区 code 到你的 YourName.md 文件的开始，错误的时区设置可能会使自动化打卡脚本错误计算打卡时间，具体请参考：https://github.com/IntensiveCoLearning/template/blob/main/Template.md?plain=1#L1
+  - 当你提交笔记时，请确保以下几点，否则打卡可能会失败：
+    - 在 YourName.md 文档，请将笔记内容放到以下代码块中，且 `<!-- Content_START -->` 和 `<!-- Content_END -->` 不能删除:
+    ```
+    <!-- Content_START -->
+    ### 日期
+    笔记内容
+    <!-- Content_END -->
+    ```
+    - 日期格式为 `### 2024.07.11`，请不要随意更改
 
 ## {本期残酷共学名字}打卡记录表
 

@@ -49,12 +49,6 @@ timezone: Australia/Sydney # 澳大利亚东部标准时间 (UTC+10)
 
 timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
-# {残酷共学名字}第 x 期残酷指引
-
-> 添加你的残酷共学的介绍或指引
-
-> 如果有特别的课程安排，也请在此添加
-
 ---
 
 # {你的名字}
