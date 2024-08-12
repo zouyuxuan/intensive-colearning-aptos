@@ -125,6 +125,10 @@
 
 6. 将令牌值添加到存储库 secret: 按照上述步骤将您的个人访问令牌值添加到您的存储库 secret 中，并将名称设置为 `PAT_WITH_INVITE_PERMISSIONS`。
 
+![image](https://github.com/user-attachments/assets/d7c06540-9076-4557-b911-e5e484a742bb)
+
+
+
 ### 配置共学信息配置变量
 
 1. 配置这四个仓库变量，注意不要添加换行，空格符号
