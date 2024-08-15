@@ -134,7 +134,7 @@
 
 ### 配置共学信息配置变量
 
-1. 配置这四个仓库变量，注意不要添加换行，空格符号
+1. 配置这四个仓库变量(Repository variables)，注意不要添加**换行**，**空格**符号
 
 | Field Name  | Value                     | Comments                        |
 | ----------- | ------------------------- | ------------------------------- |
@@ -143,4 +143,5 @@
 | FIELD_NAME  | EICL1st· Name             | Field name in the readme        |
 | FILE_SUFFIX | _EICL1st.md_              | Shared learning activity number |
 
-![image](https://github.com/user-attachments/assets/6864dac1-e73a-4012-be3e-0340a1c37f73)
+![image](https://github.com/user-attachments/assets/d5b6f504-9eea-4215-9848-056fc33f00f8)
+
