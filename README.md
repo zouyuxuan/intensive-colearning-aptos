@@ -17,7 +17,9 @@
 
 报名方式是完全基于 GitHub 的流程，通过提交 PR 进行申请，合并 PR 之后拥有更新权限。如果你不熟悉 GitHub 和 Git 的操作，请先自行学习。通常还会有一个小型的 Telegram 交流群方便交流。
 
-关于更多「残酷共学」的介绍请参见：https://forum.lxdao.io/t/topic/1654，关于更多正在发生的残酷共学请参见：https://intensivecolearn.ing/。
+关于更多「残酷共学」的介绍请参见：https://forum.lxdao.io/t/topic/1654
+
+关于更多正在发生的残酷共学请参见：https://intensivecolearn.ing/
 
 如果你有任何有关残酷共学的疑问或者想法，请到 [残酷共学 Telegram 群](https://t.me/LXDAO/6215) 联系我们。
 
@@ -56,7 +58,7 @@
 
 ## 如何报名和打卡？
 
-因为残酷共学的报名和打卡是基于 GitHub 进行开展的，如果你是非开发者或者对 git 操作不熟悉，请先阅读此文档：[残酷共学 GitHub 新手教程](https://www.notion.so/lxdao/GitHub-53fca5ba49bb40c69e4e40e69f58f416) - 这个文档还需要进行优化
+因为残酷共学的报名和打卡是基于 GitHub 进行开展的，如果你是非开发者或者对 git 操作不熟悉，请先阅读此文档：[残酷共学 GitHub 新手教程](https://www.notion.so/lxdao/GitHub-53fca5ba49bb40c69e4e40e69f58f416)
 
 - 报名:
 
@@ -130,8 +132,6 @@
 
 ![image](https://github.com/user-attachments/assets/d7c06540-9076-4557-b911-e5e484a742bb)
 
-
-
 ### 配置共学信息配置变量
 
 1. 配置这四个仓库变量(Repository variables)，注意不要添加**换行**，**空格**符号
@@ -144,4 +144,3 @@
 | FILE_SUFFIX | _EICL1st.md_              | Shared learning activity number |
 
 ![image](https://github.com/user-attachments/assets/d5b6f504-9eea-4215-9848-056fc33f00f8)
-
