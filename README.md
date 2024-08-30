@@ -150,7 +150,7 @@
     - Step03：创建一个 PR 到当前仓库，本残酷共学助教会对你的 PR 进行 review，review 通过后，你的 PR 会被 merge 到 main 分支，这个时候你会收到邀请加入这个仓库 contribution 的邮件，接受邀请后，你会自动获得 main 分支的 push 权限。
     - Step04：完成以上三个步骤，恭喜你报名成功，后续就可以将你的学习记录直接 push 到 main 分支进行更新。
     - 请加入LXDAO TG 群组保持交流：[http://t.me/LXDAO](http://t.me/LXDAO%E3%80%82%E5%8A%A0%E5%85%A5%E7%BE%A4%E7%BB%84%E5%90%8E%E8%AF%B7%E5%9C%A8%E7%BE%A4%E9%87%8C%E6%8A%A5%E5%88%B0%E4%B8%80%E4%B8%8B%E6%96%B9%E4%BE%BF%E5%8A%A9%E6%95%99%E8%AE%B0%E5%BD%95%E3%80%82)  加入群组后请在群里报到一下方便助教记录
-    - 或者添加 Aptos DevRel 微信进入 Aptos 微信群
+    - 或者添加 Aptos DevRel 微信进入 Aptos 官方微信群:  logan_apt
 - 打卡：
     - 报名成功后，你将拥有 main 分支的 push 权限，你需要将每天学习笔记按日期更新到你的 YourName.md 文档中，提交更新后，我们会自动更新你的打卡状态到下面的打卡记录表。
     - 如果你不在 UTC+8 时区，需要添加时区 code 到你的 YourName.md 文件的开始，错误的时区设置可能会使自动化打卡脚本错误计算打卡时间，具体请参考：https://github.com/IntensiveCoLearning/template/blob/main/Template.md?plain=1#L1
