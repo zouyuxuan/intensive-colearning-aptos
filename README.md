@@ -172,10 +172,7 @@
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
 <!-- START_COMMIT_TABLE -->
-| Name | 8.30 | 8.31 | 9.01 | 9.02 |
-| ------------- | ---- | ---- | ---- | ---- |
-| README | ⭕️ |   |   |   |
-| Ellen | ⭕️ |   |   |   |
+
 <!-- END_COMMIT_TABLE -->
 
 
