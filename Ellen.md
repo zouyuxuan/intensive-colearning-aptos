@@ -1,7 +1,3 @@
----
-timezone: America/Los_Angeles
----
-
 # Ellen
 1. 自我介绍
 大家好，我是 Ellen
